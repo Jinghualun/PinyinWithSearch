@@ -8,6 +8,7 @@ Support pinyin search<br>
 Support English search<br>
 Support Chinese character search<br>
 
+![](https://github.com/Jinghualun/PinyinWithSearch/blob/master/PinYin4jDemo/pinyin.gif) 
 Depend
 -
 The library of pinyin4j:http://pinyin4j.sourceforge.net/<br>
